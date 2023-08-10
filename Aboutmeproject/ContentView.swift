@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Text ("SKYLAH HATCH")
+            Text ("SKYLAH HATCH!")
                 .font(.largeTitle)
                 .foregroundColor(Color(hue: 1.0, saturation: 0.158, brightness: 0.974))
                 .multilineTextAlignment(/*@START_MENU_TOKEN@*/.leading/*@END_MENU_TOKEN@*/)
